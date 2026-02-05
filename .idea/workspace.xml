@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4445cd50-2da7-4ed5-a0aa-fbf57a67d0b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Bridgelabz-Training-1Y.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bridgelabz-Training-1Y.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level1/Copy2Dto1D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level1/Factors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level1/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level1/MeanHeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level1/NumberCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level1/OddEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level1/SumArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level1/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level1/TableRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level1/VotingCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level2/BMI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level2/BMI2DArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level2/DigitFrequency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level2/EmployeeBonus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level2/Friends.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level2/LargestDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level2/MaxDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level2/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level2/StudentGrade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/JavaArrays/Level2/StudentMarks2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level1/Copy2Dto1D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level1/Factors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level1/FizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level1/MeanHeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level1/NumberCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level1/OddEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level1/SumArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level1/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level1/TableRange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level1/VotingCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level2/BMI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level2/BMI2DArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level2/DigitFrequency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level2/EmployeeBonus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level2/Friends.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level2/LargestDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level2/MaxDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level2/ReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level2/StudentGrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/JavaArrays/Level2/StudentMarks2D.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="39EqXzmh0RU5IBSz0DUoCf5OFvZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "java-arrays",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4445cd50-2da7-4ed5-a0aa-fbf57a67d0b4" name="Changes" comment="" />
+      <created>1770271622554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770271622554</updated>
+    </task>
+    <servers />
+  </component>
+</project>
