@@ -1,76 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="36611fbf-3cd1-4e69-b017-1b44b3ff5c62" name="Changes" comment="" />
+    <list default="true" id="672256ea-2bd3-46f6-ba59-702c26269ec2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
-  <component name="ProjectId" id="39ZaUPIGgRNscEaBVvn2WM1Vi6J" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="39jurA9vDXzxxlkbq5jDNnC53i3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BasicCalculator.executor": "Run",
-    "Application.CompareTwoStrings.executor": "Run",
-    "Application.CountVowelsAndConsonants.executor": "Run",
-    "Application.DateArithmetic.executor": "Run",
-    "Application.DateComparison.executor": "Run",
-    "Application.DateFormatting.executor": "Run",
-    "Application.FactorialUsingRecursion.executor": "Run",
-    "Application.FibonacciSequenceGenerator.executor": "Run",
-    "Application.FindLongestWordInSentence.executor": "Run",
-    "Application.FindMostFrequentCharacter.executor": "Run",
-    "Application.FindSubstringOccurrences.executor": "Run",
-    "Application.GCDAndLCMCalculator.executor": "Run",
-    "Application.MaximumOfThreeNumbers.executor": "Run",
-    "Application.NumberGuessingGame.executor": "Run",
-    "Application.PalindromeChecker.executor": "Run",
-    "Application.PalindromeStringCheck.executor": "Run",
-    "Application.PrimeNumberChecker.executor": "Run",
-    "Application.RemoveDuplicatesFromString.executor": "Run",
-    "Application.RemoveSpecificCharacter.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.TemperatureConverter.executor": "Run",
-    "Application.TimeZones.executor": "Run",
-    "Application.ToggleCaseOfCharacters.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "String-api",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AthleteRun.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;methods&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="36611fbf-3cd1-4e69-b017-1b44b3ff5c62" name="Changes" comment="" />
-      <created>1770906062843</created>
+      <changelist id="672256ea-2bd3-46f6-ba59-702c26269ec2" name="Changes" comment="" />
+      <created>1771221998233</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1770906062843</updated>
+      <updated>1771221998233</updated>
     </task>
     <servers />
   </component>
